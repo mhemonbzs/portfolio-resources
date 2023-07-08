@@ -15,7 +15,9 @@ font-size: 20px;
 padding: 15px 35px;
 }
 
-
+header{
+    background-color: #FFF8F3;
+}
 
 /* nav releted  */
 
@@ -24,6 +26,7 @@ nav{
     text-align: center;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px 0 250px;
     
 
 
@@ -33,6 +36,7 @@ nav> ul{
     list-style: none;
     display: flex;
     align-items: center;
+    
 
 }
 
@@ -55,4 +59,47 @@ font-weight: 400;
 }
 span{
     color: tomato;
+}
+
+
+/* nav done */
+
+
+
+/* header style */
+
+
+.banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+   
+}
+
+.photo{
+    width: 584px;
+height: 676px;
+
+
+
+}
+
+.greetimg{
+    color:  #474747);
+
+font-size: 45px;
+
+font-weight: 600;
+
+}
+.name{
+    color:  #181818);
+font-size: 85px;
+font-weight: 700;
+}
+.details{
+    
+width: 585px;
+
+
+padding-bottom: 20px;
 }
