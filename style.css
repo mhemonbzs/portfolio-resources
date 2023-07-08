@@ -1,0 +1,58 @@
+/* shared style */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.btn-p{
+    
+flex-shrink: 0;
+border: 5px;
+border-radius: 5px;
+background: #FD6E0A;
+color: aliceblue;
+font-size: 20px;
+padding: 15px 35px;
+}
+
+
+
+/* nav releted  */
+
+nav{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    
+
+
+}
+
+nav> ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+
+nav li{
+    list-style: none;
+    margin-right: 51px;
+    color: #474747);
+
+font-size: 20px;
+
+font-weight: 400;
+
+}
+
+.logo{
+    color: #0a0808;
+    font-size: 45px;
+    font-weight: 800;
+
+}
+span{
+    color: tomato;
+}
