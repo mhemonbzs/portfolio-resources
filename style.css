@@ -13,6 +13,7 @@ body {
     color: aliceblue;
     font-size: 20px;
     padding: 15px 35px;
+    
 }
 
 header {
@@ -184,4 +185,58 @@ span {
 
 /* about section done */
 
+.do {
+
+    padding: 125px;
+    max-width: 1140px;
+    margin: 120px 150px 130px 150px;
+    size: 100vh;
+    
+
+}
+
+.do-h {
+    padding-bottom: 50px;
+}
+
+.skills {
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+}
+
+.skill {
+    border-radius: 10px;
+
+    background: #ebf0d4;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+    padding: 30px;
+    text-align: center;
+
+
+}
+
+/* resume section */
+
+
+.resume {
+
+    display: flex;
+    gap: 70px;
+    justify-content: space-between;
+
+}
+
+
+.resume-c hr {
+    margin: 10px;
+
+}
+
+.resume-c-t {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
 
